@@ -1,7 +1,6 @@
 # CalculadoraMPI
-Calculadora para la clase de estructura del computador 2
-Carlos Montes: suma
-Jorge Herrera: Resta
-Kevin Farfan: Multiplicación 
-Nelson caraballo: Division 
-Said y yo mezclar todo
+Implementacion de Multiprocesamiento
+Este programa permite dar muestra del uso de cores del procesador para ejecucion de 4 procesos
+Suma, Resta, Multiplicacion y Division.
+
+![Test Image 3](/ejemplo.png)
